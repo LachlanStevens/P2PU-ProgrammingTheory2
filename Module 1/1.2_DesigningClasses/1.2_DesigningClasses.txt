@@ -1,0 +1,49 @@
+/*
+* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2333/
+* Author: Lachlan Stevens
+* Date of completion: August 29, 2014
+*/
+
+1.
+	House
+	-----------------
+	colour
+	dimensions
+	owner
+	-----------------
+	findColour()
+	setDimensions()
+	showOwner()
+
+2.
+	Pet
+	-----------------
+	name
+	animalType
+	breed
+	-----------------
+	setName()
+	showType()
+	findBreed()
+
+3.
+	Television
+	-----------------
+	record
+	brandName
+	channel
+	-----------------
+	startRecording()
+	getBrand()
+	setChannel()
+
+4.
+	Piano
+	-----------------
+	note
+	brand
+	age
+	-----------------
+	setNote()
+	findBrand()
+	getAge()

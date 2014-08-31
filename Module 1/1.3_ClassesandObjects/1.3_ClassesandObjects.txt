@@ -1,0 +1,19 @@
+/*
+* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2334/
+* Author: Lachlan Stevens
+* Date of completion: August 29, 2014
+*/
+
+1.
+	Write a class for contact entries in a phone book, and populate an array with 10 contacts. 
+	Then loop through the contacts and print out each entry in the following format: "#1 Firstname Lastname : PhoneNumber"
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module 1/1.3_ClassesandObjects/Exercise 1
+
+2.
+	Write a class for Website data. Then populate an array with your favorite websites. 
+	Once done, loop through the array and print out data for each object as follows: "#1 WebsiteName: URL"
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module 1/1.3_ClassesandObjects/Exercise 2

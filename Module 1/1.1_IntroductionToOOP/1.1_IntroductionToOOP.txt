@@ -1,0 +1,16 @@
+/*
+* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2332/
+* Author: Lachlan Stevens
+* Date of completion: August 29, 2014
+*/
+
+1.
+	User1().Bank1().Money().Send(100)
+	User2().Bank2().Money().Recieve(100)
+
+2.
+	User1().Email().Send(ContactList().Selection()).Message(inputBox().Value)
+	User2().Email().Recieve()
+
+3.
+	User1().Post().Message().Wall(FriendList().Selection())
