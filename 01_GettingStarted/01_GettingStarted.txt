@@ -1,7 +1,7 @@
 /*
-* Getting started - Source P2PU: https://p2pu.org/en/courses/1079/content/2291/
+* Getting started - Source P2PU: https://p2pu.org/en/courses/1099/content/2444/
 * Author: Lachlan Stevens
-* Date of completion: July 24, 2014
+* Date of completion: August 29, 2014
 */
 
 1: Open the command line, and execute the command "python -V" and paste the output in the comments bellow, along with the Operating system you are using (Windows, Mac, Linux).

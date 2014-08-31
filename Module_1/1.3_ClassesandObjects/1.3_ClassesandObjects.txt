@@ -9,11 +9,11 @@
 	Then loop through the contacts and print out each entry in the following format: "#1 Firstname Lastname : PhoneNumber"
 
 	Completed Exercise:
-		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module 1/1.3_ClassesandObjects/Exercise 1
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.3_ClassesandObjects/Exercise_1/
 
 2.
 	Write a class for Website data. Then populate an array with your favorite websites. 
 	Once done, loop through the array and print out data for each object as follows: "#1 WebsiteName: URL"
 
 	Completed Exercise:
-		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module 1/1.3_ClassesandObjects/Exercise 2
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.3_ClassesandObjects/Exercise_2/
