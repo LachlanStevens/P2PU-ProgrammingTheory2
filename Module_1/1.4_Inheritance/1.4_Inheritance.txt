@@ -1,0 +1,12 @@
+/*
+* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2334/
+* Author: Lachlan Stevens
+* Date of completion: September 1, 2014
+*/
+
+Exercise 1:
+	Write a program which defines a parent company class with a function print_summary() which outputs " | | ", and two children classes: Supplier and Client. 
+	Populate one array with Suppliers, and one array with Clients, then loop through each array calling the print_summary() function so you effectively print out a phonebook of clients and suppliers ordered by those groupings.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.4_Inheritance/Exercise_1/
