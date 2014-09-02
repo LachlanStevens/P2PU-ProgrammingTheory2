@@ -8,4 +8,4 @@ Exercise 1:
 	Save the code in the above example in animals.py, run the code using the python command line interpreter and paste the output in the comments below.
 
 	Completed Exercise:
-		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.5_Polymorphism/Exercise_2/
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.5_Polymorphism/Exercise_1/

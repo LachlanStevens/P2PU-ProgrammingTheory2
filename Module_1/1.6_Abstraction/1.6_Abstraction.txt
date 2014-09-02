@@ -1,0 +1,17 @@
+/*
+* Abstraction - Source P2PU: https://p2pu.org/en/courses/1099/content/2337/
+* Author: Lachlan Stevens
+* Date of completion: September 2, 2014
+*/
+
+Exercise 1:
+	Rewrite the animal.py file from the previous section, apply abstraction to the Animal parent class, run the file through the Python interpreter and check that your code still functions as expected.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.6_Abstraction/Exercise_1/
+
+Exercise 2:
+	Write a program which defines an abstract class, "Contact", and two specialized child classes "IndividualContact" and "CompanyContact". Paste the class definitions in a comment below for feedback.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.6_Abstraction/Exercise_2/
