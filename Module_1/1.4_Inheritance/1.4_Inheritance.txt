@@ -1,5 +1,5 @@
 /*
-* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2334/
+* Inheritance - Source P2PU: https://p2pu.org/en/courses/1099/content/2335/
 * Author: Lachlan Stevens
 * Date of completion: September 1, 2014
 */

@@ -1,5 +1,5 @@
 /*
-* Introduction to OOP - Source P2PU: https://p2pu.org/en/courses/1099/content/2333/
+* Designing Classes - Source P2PU: https://p2pu.org/en/courses/1099/content/2333/
 * Author: Lachlan Stevens
 * Date of completion: August 29, 2014
 */

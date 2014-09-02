@@ -1,0 +1,11 @@
+/*
+* Polymorphism - Source P2PU: https://p2pu.org/en/courses/1099/content/2336/
+* Author: Lachlan Stevens
+* Date of completion: September 2, 2014
+*/
+
+Exercise 1:
+	Save the code in the above example in animals.py, run the code using the python command line interpreter and paste the output in the comments below.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.5_Polymorphism/Exercise_2/
