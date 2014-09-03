@@ -1,0 +1,23 @@
+/*
+* Interfaces - Source P2PU: https://p2pu.org/en/courses/1099/content/2338/
+* Author: Lachlan Stevens
+* Date of completion: September 3, 2014
+*/
+
+Exercise 1:
+	Design a composite class for a car, which is made up of a number of components.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.7.2_Composition/Exercise_1/
+
+Exercise 2:
+	Design a composite class for a Company, which is made up of Departments, which is made up of Employees.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.7.2_Composition/Exercise_2/
+
+Exercise 3:
+	Design a composite class for a Course, which contains Student and Teacher objects which are children of the Person abstract class. The Course class should also contain a number of modules.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.7.2_Composition/Exercise_3/

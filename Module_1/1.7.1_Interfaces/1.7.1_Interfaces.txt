@@ -1,0 +1,11 @@
+/*
+* Interfaces - Source P2PU: https://p2pu.org/en/courses/1099/content/2338/
+* Author: Lachlan Stevens
+* Date of completion: September 3, 2014
+*/
+
+Exercise 1:
+	Edit the animals.py file from the previous section, and separate out the talk(), move() and breathe() functions from the parent abstract class and move these functions into an interface called "AnimalBehavior", and implement this interface in each of the child classes. Run the code to ensure it still functions and paste the completed code in a comment below for feedback.
+
+	Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_1/1.7.1_Interfaces/Exercise_1/
