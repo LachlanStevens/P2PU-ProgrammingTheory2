@@ -1,0 +1,29 @@
+/*
+* Problem Solving and Design with UML - Source P2PU: https://p2pu.org/en/courses/1099/content/2342/
+* Author: Lachlan Stevens
+* Date of completion: September 4, 2014
+*/
+
+Exercise 1:
+	Draw a class diagram for the Animals example in the section on Abstraction.
+
+	Completed Exercise:
+	https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.2_ProblemSolvingUML/Exercise_1/
+
+Exercise 2:
+	Draw a class diagram for the Car example in the section on Composition.
+
+	Completed Exercise:
+	https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.2_ProblemSolvingUML/Exercise_2/
+
+Exercise 3:
+	Draw a Use Case diagram for this P2PU course, depicting a course organizer, course participant, and a guest user (not signed up for the course).
+
+	Completed Exercise:
+	https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.2_ProblemSolvingUML/Exercise_3/
+
+Exercise 4:
+	Draw a Sequence Diagram for requesting a website address in a web browser.
+
+	Completed Exercise:
+	https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.2_ProblemSolvingUML/Exercise_4/
