@@ -1,0 +1,22 @@
+/*
+* Loose Coupling, Strong Cohesion - Source P2PU: https://p2pu.org/en/courses/1099/content/2343/
+* Author: Lachlan Stevens
+* Date of completion: September 6, 2014
+*/
+
+Correct these functions:
+	Exercise 1:
+
+		Exponent
+			def exponent(): num = int(raw_input("Enter in a number: ")) exponent = int(raw_input("Raise the number to the power of: ")) answer = pow(num, exponent) print answer
+
+		Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.3_LooseCoupling/Exercise_1/
+
+	Exercise 2:
+
+		Concatenation
+			def concatenation(): string1 = raw_input("Enter in a string: ") string2 = raw_input("Enter another string: ") full_string = "%s %s" % (string1, string2) print full_string
+
+		Completed Exercise:
+		https://github.com/LachlanStevens/P2PU-ProgrammingTheory2/tree/master/Module_2/2.3_LooseCoupling/Exercise_2/
